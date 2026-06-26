@@ -1,0 +1,27 @@
+Revision history for Perl extension Map::Tube::Chicago
+
+0.2.3 2026-06-26
+  - Fixed Makefile.PL issue preventing data file from being installed.
+  - Improvements to Makefile.PL
+
+0.2.2 2026-06-24
+  - Require Map::Tube 5.0.1.
+  - Removed code signatures (cpansign is deprecated), replaced with Sigstore/cosign.
+  - Prepared for use with Map::Tube v5.0.1.
+
+0.2.1 2025-04-30
+  - Require Map::Tube 4.09.
+  - Require Perl 5.14 (in accordance with Map::Tube 4.09).
+  - Remove -T from shebangs in tests (in accordance with Map::Tube 4.09).
+  - Facilitate Unicode output in tests in case of failures.
+
+0.2.0 2025-04-17
+  - Better disambiguation of station names.
+  - Require Map::Tube 4.04.
+
+0.1.1 2025-03-03
+  - Circumvent a problem with a test failing for Perl 5.18 (only).
+  - Downgraded required Map::Tube version to 4.01.
+
+0.1.0 2025-03-03
+  - initial release
