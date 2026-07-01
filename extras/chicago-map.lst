@@ -1,0 +1,205 @@
+;Chicago L System
+:Blue Line:#009DDC
+O'Hare
+Rosemont
+Cumberland
+Harlem (O'Hare Branch)
+Jefferson Park
+Montrose (Blue Line)
+Irving Park (Blue Line)
+Addison (Blue Line)
+Belmont (Blue Line)
+Logan Square
+California (Blue Line)
+Western (O'Hare Branch)
+Damen (Blue Line)
+Division
+Chicago (Blue Line)
+Grand (Blue Line)
+Clark/Lake
+Washington:walk;Lake
+Monroe (Blue Line)
+Jackson:walk;Library
+LaSalle
+Clinton (Blue Line)
+UIC-Halsted
+Racine
+Illinois Medical District
+Western (Forest Park Branch)
+Kedzie-Homan
+Pulaski (Blue Line)
+Cicero (Blue Line)
+Austin (Blue Line)
+Oak Park (Blue Line)
+Harlem (Forest Park Branch)
+Forest Park
+:Brown Line:#7B4B0D
+Kimball
+Kedzie (Brown Line)
+Francisco
+Western (Brown Line)
+Damen (Brown Line)
+Montrose (Brown Line)
+Irving Park (Brown Line)
+Addison (Brown Line)
+Paulina
+Southport
+Belmont (Brown/Purple/Red Line)
+Wellington (Brown Line):walk;Wellington (Purple Line)
+Diversey (Brown Line):walk;Diversey (Purple Line)
+Fullerton
+Armitage (Brown Line):walk;Armitage (Purple Line)
+Sedgwick (Brown Line):walk;Sedgwick (Purple Line)
+Chicago (Brown Line):walk;Chicago (Purple Line)
+Merch Mart
+>Washington/Wells
+>Quincy (Brown Line):walk;Quincy (Orange Line):walk;Quincy (Pink Line):walk;Quincy (Purple Line)
+>LaSalle/Van Buren
+>Library:walk;Jackson
+>Adams/Wabash
+>Washington/Wabash (Brown Line):walk;Washington/Wabash (Green Line):walk;Washington/Wabash (Orange Line):walk;Washington/Wabash (Pink Line):walk;Washington/Wabash (Purple Line)
+>State/Lake:walk;Lake
+>Clarke/Lake>Merch Mart
+:Green Line:#00A950
+Harlem/Lake
+Oak Park (Green Line)
+Ridgeland
+Austin (Green Line)
+Central (Green Line)
+Laramie
+Cicero (Green Line)
+Pulaski (Green Line)
+Conservatory-Central Park Drive
+Kedzie (Green Line)
+California (Green Line)
+Damen (Green Line)
+Ashland (Green/Pink Line)
+Morgan (Green Line):walk;Morgan (Pink Line)
+Clinton (Green/Pink Line)
+Clark/Lake
+State/Lake:walk;Lake
+Washington/Wabash (Green Line):walk;Washington/Wabash (Brown Line):walk;Washington/Wabash (Orange Line):walk;Washington/Wabash (Pink Line):walk;Washington/Wabash (Purple Line)
+Adams/Wabash
+Roosevelt
+Cermak/McCormick Place
+35th-Bronzeville-IIT
+Indiana
+43rd
+47th (Green Line)
+51st
+Garfield (Green Line)>Cottage Grove
+Halsted (Green Line)
+Ashland/63rd
+!King Drive>Garfield (Green Line)
+<Cottage Grove
+:Orange Line:#F37736
+Midway
+Pulaski (Orange Line)
+Kedzie (Orange Line)
+Western (Orange Line)
+35th/Archer
+Ashland (Orange Line)
+Halsted (Orange Line)
+Roosevelt
+>Library:walk;Jackson
+>LaSalle/Van Buren
+>Quincy (Orange Line):walk;Quincy (Brown Line):walk;Quincy (Pink Line):walk;Quincy (Purple Line)
+>Washington/Wells
+>Clark/Lake
+>State/Lake:walk;Lake
+>Washington/Wabash (Orange Line):walk;Washington/Wabash (Brown Line):walk;Washington/Wabash (Green Line):walk;Washington/Wabash (Pink Line):walk;Washington/Wabash (Purple Line)
+>Adams/Wabash>Roosevelt
+:Pink Line:#F06DA9
+54th/Cermak
+Cicero (Pink Line)
+Kostner
+Pulaski (Pink Line)
+Central Park
+Kedzie (Pink Line)
+California (Pink Line)
+Western (Pink Line)
+Damen (Pink Line)
+18th
+Polk
+Ashland (Green/Pink Line)
+Morgan (Pink Line):walk;Morgan (Green Line)
+Clinton (Green/Pink Line)
+>Clark/Lake
+>State/Lake:walk;Lake
+>Washington/Wabash (Pink Line):walk;Washington/Wabash (Brown Line):walk;Washington/Wabash (Green Line):walk;Washington/Wabash (Orange Line):walk;Washington/Wabash (Purple Line)
+>Adams/Wabash
+>Library:walk;Jackson
+>LaSalle/Van Buren
+>Quincy (Pink Line):walk;Quincy (Brown Line):walk;Quincy (Orange Line):walk;Quincy (Purple Line)
+>Washington/Wells>Clinton (Green/Pink Line)
+:Purple Line:#8877A9
+Linden
+Central (Purple Line)
+Noyes
+Foster
+Davis
+Dempster
+Main
+South Blvd
+Howard
+:Purple Line Express:#6A5E84
+Howard
+Wilson
+Belmont (Brown/Purple/Red Line)
+Wellington (Purple Line):walk;Wellington (Brown Line)
+Diversey (Purple Line):walk;Diversey (Brown Line)
+Fullerton
+Armitage (Purple Line):walk;Armitage (Brown Line)
+Sedgwick (Purple Line):walk;Sedgwick (Brown Line)
+Chicago (Purple Line):walk;Chicago (Brown Line)
+Merch Mart
+>Clark/Lake
+>State/Lake:walk;Lake
+>Washington/Wabash (Purple Line):walk;Washington/Wabash (Brown Line):walk;Washington/Wabash (Green Line):walk;Washington/Wabash (Orange Line):walk;Washington/Wabash (Pink Line)
+>Adams/Wabash
+>Library:walk;Jackson
+>LaSalle/Van Buren
+>Quincy (Purple Line):walk;Quincy (Brown Line):walk;Quincy (Orange Line):walk;Quincy (Pink Line)
+>Washington/Wells>Merch Mart
+:Red Line:#E51937
+Howard
+Jarvis
+Morse
+Loyola
+Granville
+Thorndale
+>Bryn Mawr
+>Berwyn>Thorndale
+Argyle
+Lawrence
+Wilson
+Sheridan
+Addison (Red Line)
+Belmont (Brown/Purple/Red Line)
+Fullerton
+North/Clybourn
+Clark/Division
+Chicago (Red Line)
+Grand (Red Line)
+Lake:walk;State/Lake:walk;Washington
+Monroe (Red Line)
+Jackson:walk;Library
+Harrison
+Roosevelt
+Cermak-Chinatown
+Sox-35th
+47th (Red Line)
+Garfield (Red Line)
+63rd
+69th
+79th
+87th
+95th/Dan Ryan
+# under construction (early 2025): 103rd
+# under construction (early 2025): 11th
+# under construction (early 2025): Michigan
+# under construction (early 2025): 130th
+:Yellow Line:#FFED00
+Dempster-Skokie
+Oakton-Skokie
+Howard

@@ -1,8 +1,13 @@
 Revision history for Perl extension Map::Tube::Chicago
 
+0.2.4 ***Not yet relased***
+  - Switched README to markdown.
+  - Added information on contributing.
+
 0.2.3 2026-06-26
   - Fixed Makefile.PL issue preventing data file from being installed.
   - Improvements to Makefile.PL
+  - Switched to Github as code repository and issue handler.
 
 0.2.2 2026-06-24
   - Require Map::Tube 5.0.1.

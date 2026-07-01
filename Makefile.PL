@@ -66,7 +66,7 @@ WriteMakefile(
                                                             },
                                               bugtracker => {
                                                                web => 'https://github.com/gwselke/' . $mod_distname . '/issues'
-                                                             },
+                                                            },
                                             },
                         },
 );

@@ -1,4 +1,3 @@
-
 # Avoid version control files.
 \bRCS\b
 \bCVS\b
@@ -64,3 +63,4 @@
 ^\.travis\.yml$
 ^Map-Tube-Chicago-.*.tar.gz$
 ^Map-Tube-Chicago-.*.tar.gz.sigstore.json$
+extras/*

@@ -23,4 +23,9 @@ nytprof.out
 /pm_to_blib
 /*.zip
 /*.tar.gz
+extras/*.jpeg
+extras/*.jpg
+extras/*.pdf
+extras/*.png
+extras/*.xml
 
